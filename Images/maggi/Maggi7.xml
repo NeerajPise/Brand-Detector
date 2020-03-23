@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Maggi</folder>
+	<filename>Maggi7.jpg</filename>
+	<path>F:\Projects\Finito Test\training\Maggi\Maggi7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>339</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>54</ymin>
+			<xmax>292</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

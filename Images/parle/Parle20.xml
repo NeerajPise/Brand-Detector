@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Parle G</folder>
+	<filename>Parle20.webp</filename>
+	<path>F:\Projects\Finito Test\training\Parle G\Parle20.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>938</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>41</ymin>
+			<xmax>891</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

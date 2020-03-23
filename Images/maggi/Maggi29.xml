@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maggi</folder>
+	<filename>Maggi29.jpg</filename>
+	<path>C:\Users\hp\Desktop\maggi\Maggi29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1129</xmin>
+			<ymin>636</ymin>
+			<xmax>2715</xmax>
+			<ymax>2610</ymax>
+		</bndbox>
+	</object>
+</annotation>
