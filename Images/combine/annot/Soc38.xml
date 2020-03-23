@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Society tea</folder>
+	<filename>Soc38.jpg</filename>
+	<path>C:\Users\hp\Desktop\Society tea\Soc38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>society</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>119</ymin>
+			<xmax>375</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
